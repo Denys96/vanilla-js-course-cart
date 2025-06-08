@@ -1,26 +1,23 @@
-# 🍳 Escuela de Cocina - Carrito de Cursos (Vanilla JS con VITE)
+# 🛒 Proyecto: Carrito de Compras con JavaScript Vanilla
 
-¡Bienvenido/a a este proyecto práctico en JavaScript puro!  
-Aquí podrás ver cómo se implementa un **carrito de compras de cursos** con funcionalidades modernas como alertas visuales, desactivación de botones, uso de JSON local y persistencia con LocalStorage.
+Este proyecto consiste en una aplicación web donde los usuarios pueden agregar productos a un carrito de compras de manera dinámica. Está desarrollado con **HTML, CSS y JavaScript puro (Vanilla JS)**, sin frameworks externos.
 
----
+## 🧠 Lo que aprendí:
+- Manipulación avanzada del DOM
+- Gestión del carrito (añadir, eliminar, vaciar productos)
+- Uso de eventos como `click` y `DOMContentLoaded`
+- Manejo de localStorage para persistir el carrito entre sesiones
+- Separación del código en funciones reutilizables y ordenadas
 
-## 🎯 Objetivo del Proyecto
+## 📦 Funcionalidades:
+- Agregar productos al carrito
+- Eliminar productos individuales
+- Vaciar el carrito por completo
+- Actualización automática de la lista de productos y del total
+- Persistencia de datos con `localStorage`
 
-Construir una **interfaz interactiva para agregar cursos de cocina a un carrito**, utilizando tecnologías básicas del frontend (HTML, CSS, Bootstrap y Javascript).
-
----
-
-## 🧩 Funcionalidades Principales
-
-✅ Agregar cursos al carrito  
-✅ Deshabilitar botón tras agregar un curso  
-✅ Uso de alertas  
-✅ Leer datos de un archivo JSON local  
-✅ Quitar cursos del carrito  
-✅ Vaciar el carrito
-✅ Guardar el carrito en `localStorage` para mantener persistencia  
-
+## 🌐 Enlace al proyecto:
+[🔗 Ver proyecto en Netlify](https://carts-carrito.netlify.app/)
 ---
 
 ## 📷 Vista previa del proyecto
